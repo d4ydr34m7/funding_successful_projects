@@ -1,6 +1,6 @@
 # funding_successful_projects
 
-Hackerearth -Machine Learning Challenge #2
+## Hackerearth -Machine Learning Challenge #2
 
 Problem Statement
 Kickstarter is a community of more than 10 million people comprising of creative, tech enthusiasts who help in bringing creative project to life. Till now, more than $3 billion dollars have been contributed by the members in fuelling creative projects. The projects can be literally anything – a device, a game, an app, a film etc.
